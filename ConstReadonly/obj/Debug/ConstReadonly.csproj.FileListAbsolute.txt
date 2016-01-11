@@ -1,0 +1,5 @@
+C:\Users\Ryan\Documents\GitHub\LabExercises2\ConstReadonly\bin\Debug\ConstReadonly.exe.config
+C:\Users\Ryan\Documents\GitHub\LabExercises2\ConstReadonly\bin\Debug\ConstReadonly.exe
+C:\Users\Ryan\Documents\GitHub\LabExercises2\ConstReadonly\bin\Debug\ConstReadonly.pdb
+C:\Users\Ryan\Documents\GitHub\LabExercises2\ConstReadonly\obj\Debug\ConstReadonly.exe
+C:\Users\Ryan\Documents\GitHub\LabExercises2\ConstReadonly\obj\Debug\ConstReadonly.pdb

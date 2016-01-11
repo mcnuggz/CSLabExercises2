@@ -1,0 +1,5 @@
+C:\Users\Ryan\Documents\GitHub\LabExercises2\LabExercises2\bin\Debug\LabExercises2.exe.config
+C:\Users\Ryan\Documents\GitHub\LabExercises2\LabExercises2\bin\Debug\LabExercises2.exe
+C:\Users\Ryan\Documents\GitHub\LabExercises2\LabExercises2\bin\Debug\LabExercises2.pdb
+C:\Users\Ryan\Documents\GitHub\LabExercises2\LabExercises2\obj\Debug\LabExercises2.exe
+C:\Users\Ryan\Documents\GitHub\LabExercises2\LabExercises2\obj\Debug\LabExercises2.pdb
